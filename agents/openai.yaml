@@ -1,0 +1,5 @@
+interface:
+  display_name: "Instagram Growth Analyst"
+  short_description: "Diagnose posts and plan stronger Instagram content"
+  brand_color: "#E1306C"
+  default_prompt: "Use $instagram-growth-analyst to analyze my Instagram post, explain its momentum, and recommend what to improve next."
