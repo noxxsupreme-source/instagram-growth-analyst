@@ -1,0 +1,5 @@
+post_id,format,published_at,age_hours,views,reach,likes,comments,shares,saves,profile_visits,follows
+reel-001,reel,2026-09-01T18:00:00Z,168,12000,9500,700,42,160,210,180,75
+reel-002,reel,2026-09-08T18:00:00Z,168,9800,8100,590,30,110,170,130,54
+reel-003,reel,2026-09-15T18:00:00Z,168,14300,11000,820,61,220,260,240,102
+reel-current,reel,2026-09-22T18:00:00Z,168,18800,14700,940,75,390,330,310,141
